@@ -1,6 +1,10 @@
-# Project Title
+# Project with modal view w/ JS Vanilla
+This is a beginner project to help me practice Javascript.
 
-A brief description of your project, its purpose, and what it aims to achieve.
+It has the following features:
+- once you click the buttons inside the cards, a modal view will pop up
+- you can close the modal view by clicking the "x" button at the top-right corner
+- you can also click the two buttons at the sides of the card to switch to the previous or tbe following one
 
 ## Table of Contents
 
@@ -8,24 +12,22 @@ A brief description of your project, its purpose, and what it aims to achieve.
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
 
-- **Feature 1**: Describe the first feature of your project.
-- **Feature 2**: Describe the second feature of your project.
-- **Feature 3**: Describe the third feature of your project.
-- Add more features as necessary.
+- **Feature 1**: Full responsive design.
+- **Feature 2**: Smooth DOM manipulation with event listeners.
+- **Feature 3**: Pleasant swipe animation with the Glide.js library.
+
 
 ## Technologies Used
 
-- **ReactJS**: A JavaScript library for building user interfaces.
-- **NextJS**: A React framework for server-side rendering and static site generation.
-- **TypeScript**: A superset of JavaScript that adds static types.
-- **TailwindCSS**: A utility-first CSS framework for styling.
-- **Other Technologies**: List any other technologies or libraries used in your project.
+- **HTML**: The most common markup language for web browsers.
+- **CSS w/ Tailwind CSS**: A utility-first CSS framework for styling.
+- **Javascript**: the programming language used for adding interactivity to web pages
+- **Glide.js**: a useful library for creating smooth sliding transitions between modal cards. It provides a lightweight and flexible way to implement carousels and sliders, which can enhance the user experience
+  
 
 ## Installation
 
@@ -33,68 +35,22 @@ Follow these steps to set up your project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+  gh repo clone EliaGiolli/Project_img_gallery
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
-   ```
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
-   or
-   ```bash
-   yarn install
+   cd Project_img_gallery
    ```
 
 ## Usage
 
 Provide instructions on how to run your project:
 
-1. Start the development server:
-   ```bash
-   npm run dev
-   ```
-   or
-   ```bash
-   yarn dev
-   ```
-2. Open your browser and navigate to `http://localhost:3000`.
+- Since it's a very basic project the only thing to do is start the live server on VSCode
+  
 
-### Example
-
-Include an example of how to use your project or a screenshot to illustrate its functionality.
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/YourFeature
-   ```
-5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any inquiries, please reach out to:
-
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
+- **Giolli Elia** 
+- GitHub: [[yourusername](https://github.com/yourusername)](https://github.com/EliaGiolli)
 
 ---
 
